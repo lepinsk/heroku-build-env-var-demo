@@ -19,5 +19,9 @@
   },
   "scripts": {
     "postinstall": "./node_modules/.bin/grunt"
+  },
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/lepinsk/heroku-build-env-var-demo.git"
   }
 }
